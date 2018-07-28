@@ -12,8 +12,8 @@ For more information about the Nextion display project, please visit
 [the wiki。](http://wiki.iteadstudio.com/Nextion_HMI_Solution)
 
 The Nextion4J project is an independent project that has no affiliation with
-ITEAD. It was created to help JAVA enthusiasts use the Nextion serial displays
-with their JAVA projects.
+ITEAD. It was created to help Java enthusiasts use the Nextion serial displays
+with their Java projects.
 
 To discuss the project, report a bug, request any new features please contact me
 at abdallahmina2@hotmail.com
@@ -24,7 +24,7 @@ software.
 
 You can clone the project via git:
 
-    git clone <https://github.com/abmina/Nextion4J>
+https://github.com/abmina/Nextion4J
 
 Please note that the project is only available through github unless otherwise
 specified.
@@ -40,7 +40,7 @@ http://fazecast.github.io/jSerialComm/
 
 Or you can clone the project via git:
 
-    git clone <https://github.com/Fazecast/jSerialComm>
+https://github.com/Fazecast/jSerialComm
 
 # Supported Hardware
 
