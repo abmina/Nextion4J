@@ -24,10 +24,23 @@ software.
 
 You can clone the project via git:
 
-    git clone https://github.com/abmina/Nextion4J
+    git clone <https://github.com/abmina/Nextion4J>
 
 Please note that the project is only available through github unless otherwise
 specified.
+
+# Required Libraries
+
+This library must be used with the jSerialComm-2.0.2 Java libraries for Serial
+port
+
+You can get the libraries from:
+
+    <http://fazecast.github.io/jSerialComm/>
+
+Or you can clone the project via git:
+
+    git clone <https://github.com/Fazecast/jSerialComm>
 
 # Supported Hardware
 
