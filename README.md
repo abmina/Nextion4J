@@ -36,7 +36,7 @@ port
 
 You can get the libraries from:
 
-    <http://fazecast.github.io/jSerialComm/>
+http://fazecast.github.io/jSerialComm/
 
 Or you can clone the project via git:
 
