@@ -18,7 +18,7 @@ with their Java projects.
 To discuss the project, report a bug, request any new features please contact me
 at abdallahmina2@hotmail.com
 
-This version is an initial release that was not tested yet on a physical screen
+This version is an initial release that was not tested yet on a physical screen.
 This version was tested on the Nextion emulator that comes with the Nextion HMI
 software.
 
